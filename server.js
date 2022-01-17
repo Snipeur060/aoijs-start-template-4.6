@@ -16,3 +16,4 @@ bot.status({
     status: "dnd",
     time: 12
   })
+bot.onInteractionCreate() // allow the button interaction an slash command
